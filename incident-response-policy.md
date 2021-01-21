@@ -2,7 +2,7 @@
 
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-This document describes how to respond to reports of harassment, as outlined in the [Booster's Big Neighborhood Code of Conduct](https://github.com/paulstraw/bbn-code-of-conduct).
+This document describes how to respond to reports of harassment, as outlined in the [Booster's Big Neighborhood Code of Conduct](https://paulstraw.github.io/bbn-code-of-conduct).
 
 ## Receiving Harassment Reports
 
