@@ -4,9 +4,9 @@
 
 Booster's Big Neighborhood is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all Booster's Big Neighborhood-sponsored spaces, including our Discord community, open-source projects, and other spaces that Booster's Big Neighborhood hosts, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Booster's Big Neighborhood community leaders.
+This code of conduct applies to all Booster's Big Neighborhood-hosted spaces, including the Booster's Big Neighborhood game, Discord community, open-source projects, and other spaces that Booster's Big Neighborhood hosts, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Booster's Big Neighborhood community leaders.
 
-Some Booster's Big Neighborhood-sponsored spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some Booster's Big Neighborhood-hosted spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 ## Definitions
 
@@ -34,7 +34,7 @@ Harassment includes:
 
 If you are being harassed by a member of the Booster's Big Neighborhood community, notice that someone else is being harassed, or have any other concerns, please contact one of the Booster's Big Neighborhood community leaders in Slack. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to Booster's Big Neighborhood-sponsored spaces, but if you are being harassed by a member of the Booster's Big Neighborhood community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Booster's Big Neighborhood community members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the Booster's Big Neighborhood community based on their past behavior, including behavior outside Booster's Big Neighborhood spaces and behavior towards people who are not in the Booster's Big Neighborhood community.
+This code of conduct applies to Booster's Big Neighborhood-hosted spaces, but if you are being harassed by a member of the Booster's Big Neighborhood community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Booster's Big Neighborhood community members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the Booster's Big Neighborhood community based on their past behavior, including behavior outside Booster's Big Neighborhood spaces and behavior towards people who are not in the Booster's Big Neighborhood community.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. The Booster's Big Neighborhood community leaders are not here to explain power differentials or other basic social justice concepts to you. Reports intended to silence legitimate criticism may be deleted without response.
 
