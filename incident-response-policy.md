@@ -1,14 +1,14 @@
-# Spec Code of Conduct Incident Response Policy
+# Booster's Big Neighborhood Code of Conduct Incident Response Policy
 
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-This document describes how to respond to reports of harassment, as outlined in the [Spec Code of Conduct](https://specfm.github.io/code-of-conduct/).
+This document describes how to respond to reports of harassment, as outlined in the [Booster's Big Neighborhood Code of Conduct](https://github.com/paulstraw/bbn-code-of-conduct).
 
 ## Receiving Harassment Reports
 
-If someone reports harassment to a Spec host, their report will act as a written account of what happened. This should be kept confidential to as small a group as reasonably possible.
+If someone reports harassment to a Booster's Big Neighborhood Community Leader, their report will act as a written account of what happened. This should be kept confidential to as small a group as reasonably possible.
 
-If a Spec host receives a verbal report, they should themselves write down what they were told as soon as they can, in case they don't get anything better. When possible, verbal reports are usually better conducted in a quiet/private place, for the safety and comfort of the reporter. This also decreases the chances for someone to overhear sensitive information.
+If a Booster's Big Neighborhood Community Leader receives a verbal report, they should themselves write down what they were told as soon as they can, in case they don't get anything better. When possible, verbal reports are usually better conducted in a quiet/private place, for the safety and comfort of the reporter. This also decreases the chances for someone to overhear sensitive information.
 
 If the following information is not volunteered in the written or verbal report, ask for it/include it, but do not pressure the reporter to provide it:
 
@@ -53,9 +53,9 @@ Offer the reporter/victim a chance to decide if any further action is taken: **"
 Things not to do:
 
 * Do not overtly invite them to withdraw the complaint or mention that withdrawal is OK: this suggests that you want them to do so, and is therefore coercive. "If you're OK with it [pursuing the complaint]" suggests that you are by default pursuing it and is not coercive.
-* Do not ask for their advice on how to deal with the complaint: this is the responsibility of the Spec hosts
-* Do not offer them input into penalties: this is the responsibility of the Spec hosts
-* Do not share details of the people involved or incident without specific permission from the victim. This includes sharing with other Spec hosts.
+* Do not ask for their advice on how to deal with the complaint: this is the responsibility of the Booster's Big Neighborhood community leaders.
+* Do not offer them input into penalties: this is the responsibility of the Booster's Big Neighborhood community leaders.
+* Do not share details of the people involved or incident without specific permission from the victim. This includes sharing with other Booster's Big Neighborhood community leaders or members.
 
 
 ## Staff Action in Response to Harassment Reports
@@ -87,7 +87,7 @@ As soon as possible after that meeting, let the harasser know what action is bei
 
 ## Possible Sanctions
 
-The guiding principle of Spec hosts should be **the safety of our community members from harassment**. Spec hosts should evaluate sanctions in light of whether they provide the safety needed. You and your event are the only people who can judge appropriate sanctions in your community based on the nature of the incident and the responses of the people involved, but some possibilities are:
+The guiding principle of Booster's Big Neighborhood community leaders should be **the safety of our community members from harassment**. Booster's Big Neighborhood community leaders should evaluate sanctions in light of whether they provide the safety needed. You and your event are the only people who can judge appropriate sanctions in your community based on the nature of the incident and the responses of the people involved, but some possibilities are:
 
 * warning the harasser to cease their behaviour and that any further reports will result in sanctions
 * requiring that the harasser avoid any interaction with, and physical proximity to, their victim for the remainder of the event
@@ -120,7 +120,7 @@ If the harasser attempts to press an apology on someone who would clearly prefer
 
 ### Data Retention
 
-Each incident reports and responses should be stored indefinitely in the private zebrafishlabs/code-of-conduct-reports repository.
+Each incident reports and responses should be stored indefinitely in the private paulstraw/bbn-code-of-conduct-reports repository.
 
 
 ## Communicating With the Community
@@ -136,7 +136,7 @@ Your community may need to see the policy enforced because:
 
 ### Level of Detail
 
-When discussing the incident with others, it is good to keep the individuals anonymous, generally. An exception may be if the harasser is very central to the community, such as a Spec host. However, it is useful to:
+When discussing the incident with others, it is good to keep the individuals anonymous, generally. An exception may be if the harasser is very central to the community, such as a Booster's Big Neighborhood community leader. However, it is useful to:
 
 * offer some idea of the nature of the incident eg "a sexual slide was shown in a talk" or "an attendee physically threatened another attendee" or "an attendee repeatedly harassed another attendee despite multiple requests to cease" or whatever.
 * briefly mention the sanction
@@ -147,9 +147,9 @@ This helps the community understand the reality of the policy: how and when it g
 
 ### Feedback
 
-The community should be offered the chance to give feedback on the policy and actions. When discussing the incident, always offer an avenue for feedback: this could be verbally, or via Slack, email, etc. One mechanism is usually fine if it's accessible to everyone. (Verbally in person is not accessible to everyone.) 
+The community should be offered the chance to give feedback on the policy and actions. When discussing the incident, always offer an avenue for feedback: this could be verbally, or via Slack, email, etc. One mechanism is usually fine if it's accessible to everyone. (Verbally in person is not accessible to everyone.)
 
-You will probably prefer that the feedback be private between an individual attendee and the Spec hosts: discussions of harassment incidents on geeky public mailing lists and similar often end up in lengthy (and sometimes harassing!) disputes about the philosophical validity of the notion of harassment.
+You will probably prefer that the feedback be private between an individual attendee and the Booster's Big Neighborhood community leaders: discussions of harassment incidents on geeky public mailing lists and similar often end up in lengthy (and sometimes harassing!) disputes about the philosophical validity of the notion of harassment.
 
 
 ### Informing the Community
